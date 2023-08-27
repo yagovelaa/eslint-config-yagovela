@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "yagovela/eslint-config"
+    "url": "github.com/yagovelaa/eslint-config-yagovela.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
